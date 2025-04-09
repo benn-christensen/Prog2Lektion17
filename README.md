@@ -71,3 +71,10 @@ b) Brug observer designmønsteret, således at man kan blive notificeret når de
 c) Implementer Buyer klassen som en observer, hvis antal kopier af en bog falder under 5, så skal den købe 10 nye bøger. Udskriv til konsollen hvilken bog der bliver indkøbt, det nye antal og af hvem.
 
 d) Implementer Salesman klassen som en observer, hvis en kunde køber en bog, så skal der udskrives til konsollen hvilke andre bøger, kunder der har købt den pågældende bog, også har købt. Den udskrevne liste skal ikke indeholde dubletter.
+
+### Opgave 5
+
+I denne opgave er der lavet noget kode der åbner et vindue hvor man kan ændre baggrundsfarven.
+![img.png](resources\images\img.png)
+
+Jeres opgave er at implementerer observer pattern, således at man åbne sub-vinduer der kan observere på ændringer i baggrundsfarven.
