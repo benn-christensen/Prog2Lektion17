@@ -75,6 +75,6 @@ d) Implementer Salesman klassen som en observer, hvis en kunde køber en bog, s�
 ### Opgave 5
 
 I denne opgave er der lavet noget kode der åbner et vindue hvor man kan ændre baggrundsfarven.
-![img.png](resources\images\img.png)
+![img.png](resources//images//img.png)
 
 Jeres opgave er at implementerer observer pattern, således at man åbne sub-vinduer der kan observere på ændringer i baggrundsfarven.
